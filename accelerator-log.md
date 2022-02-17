@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "663052903252.dkr.ecr.us-east-1.amazonaws.com/supply-chain"
+  "repositoryPrefix" : "663052903252.dkr.ecr.us-east-1.amazonaws.com"
 }
 ```
 ## Log
